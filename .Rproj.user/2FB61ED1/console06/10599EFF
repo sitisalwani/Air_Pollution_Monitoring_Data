@@ -1,3 +1,24 @@
 ]0;~/Dropbox/Cousera/Course2/Week2/Assignment1/Air_Pollution_Monitoring_Data[?1034hssy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ [Kssy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ [Kssy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ [Kssy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ git[K[K[Kgit init
 Initialized empty Git repository in /Users/sitisalwaniyaacob/Dropbox/Cousera/Course2/Week2/Assignment1/Air_Pollution_Monitoring_Data/.git/
 ]0;~/Dropbox/Cousera/Course2/Week2/Assignment1/Air_Pollution_Monitoring_Datassy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ git add .
+]0;~/Dropbox/Cousera/Course2/Week2/Assignment1/Air_Pollution_Monitoring_Datassy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ git commit -m "Initial commit"
+[master (root-commit) 25af121] Initial commit
+ 6 files changed, 136 insertions(+)
+ create mode 100644 .Rproj.user/2FB61ED1/console06/10599EFF
+ create mode 100644 .Rproj.user/2FB61ED1/console06/10599EFF.env
+ create mode 100644 .Rproj.user/2FB61ED1/console06/INDEX001
+ create mode 100644 .Rproj.user/2FB61ED1/sources/s-1E195D32/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 Air_Pollution_Monitoring_Data.Rproj
+]0;~/Dropbox/Cousera/Course2/Week2/Assignment1/Air_Pollution_Monitoring_Datassy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ [Kssy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ git remote add origin https://github.com/sitisalwani/Air_P ollution_Monitoring_Data.git
+]0;~/Dropbox/Cousera/Course2/Week2/Assignment1/Air_Pollution_Monitoring_Datassy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ git push -u origin master
+[KEnumerating objects: 14, done.
+[KCounting objects:   7% (1/14)[KCounting objects:  14% (2/14)[KCounting objects:  21% (3/14)[KCounting objects:  28% (4/14)[KCounting objects:  35% (5/14)[KCounting objects:  42% (6/14)[KCounting objects:  50% (7/14)[KCounting objects:  57% (8/14)[KCounting objects:  64% (9/14)[KCounting objects:  71% (10/14)[KCounting objects:  78% (11/14)[KCounting objects:  85% (12/14)[KCounting objects:  92% (13/14)[KCounting objects: 100% (14/14)[KCounting objects: 100% (14/14), done.
+Delta compression using up to 4 threads
+[KCompressing objects:  11% (1/9)[KCompressing objects:  22% (2/9)[KCompressing objects:  33% (3/9)[KCompressing objects:  44% (4/9)[KCompressing objects:  55% (5/9)[KCompressing objects:  66% (6/9)[KCompressing objects:  77% (7/9)[KCompressing objects:  88% (8/9)[KCompressing objects: 100% (9/9)[KCompressing objects: 100% (9/9), done.
+[KWriting objects:   7% (1/14)[KWriting objects:  14% (2/14)[KWriting objects:  21% (3/14)[KWriting objects:  28% (4/14)[KWriting objects:  35% (5/14)[KWriting objects:  42% (6/14)[KWriting objects:  50% (7/14)[KWriting objects:  57% (8/14)[KWriting objects:  64% (9/14)[KWriting objects:  71% (10/14)[KWriting objects:  78% (11/14)[KWriting objects:  85% (12/14)[KWriting objects:  92% (13/14)[KWriting objects: 100% (14/14)[KWriting objects: 100% (14/14), 3.27 KiB | 418.00 KiB/s, done.
+Total 14 (delta 0), reused 0 (delta 0)
+To https://github.com/sitisalwani/Air_Pollution_Monitoring_Data.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Dropbox/Cousera/Course2/Week2/Assignment1/Air_Pollution_Monitoring_Datassy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ [Kssy-macbook-pro:Air_Pollution_Monitoring_Data sitisalwaniyaacob$ 
